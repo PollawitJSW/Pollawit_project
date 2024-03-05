@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang = "th">
+  <head>
+    <meta charset="utf-8">
+    <title>Krungsri Securities</title>
+    <meta name="author" content="Pollawit Jungsawat">
+    <meta name="description" content="Start your investment journey with us!">
+    <link rel="icon" href="kss_logo-modified.png" type="image/x-icon">
+    <link rel="stylesheet" href="main.css" type="text/css">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <!-- responsive -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+  </head>
+
+<body>
+  
+  <img src="kss logo.png" class="ksslogo" alt="KSS_logo" height="150">
+  <nav>
+    <ul id="fnav">
+      <a href="#"><button class="changelang">TH/EN</button></a>
+      <a href="login.html"><button class="loginbutton">Login</button></a>
+      <li><a href="manual.html">คู่มือการใช้บริการ</a></li>
+      <li><a href="kyc.html">อัพเดต KYC</a></li>
+      <li><a href="firststock.html">KSS Academy</a></li>
+      <li><a href="fee.html">ค่าธรรมเนียม</a></li>
+      <li><a href="products.html">ผลิตภัณฑ์และบริการ</a></li>
+    </ul>
+  </nav>
+  
+  <Section id="page1">
+    <h1 id="tagline1">
+    Your Success,
+    </h1>
+    <h1 id="tagline2">
+    Our Passion
+    </h1>
+    <p>"Welcome to KSS - your enthusiastic partners in financial success. With expertise and a personalized touch, we're here to supercharge your journey to prosperity!"
+    </p>
+    <img src="undraw_Explore_re_8l4v.png" alt="image"
+    height="500">
+    <button class="openaccount button">เปิดบัญชี</button>
+    
+  </Section>
+
+
+
+  <section id="page2">
+    <img src="curve.png" alt="curve">
+    <div class="container1">
+    <h2>
+      How can we help you?
+    </h2>
+    <ul id="page2list">
+      <li><strong>Technology</strong></li>
+      <li><strong>Exceptional Customer Support</strong></li>
+      <li><strong>Education and Training</strong> </li>
+    </ul>
+  </div>
+  </section>
+  <hr>
+
+
+  
+  <section id="page3">
+    <h1>Products and Services</h1>
+    <p>we're dedicated to providing a comprehensive stock broker service tailored to your needs. Our team of experienced professionals brings in-depth market knowledge to help you make informed investment decisions.
+    </p>
+  </section>
+  <hr>
+
+  <section i="page4">
+    <h1>Who are we?</h1>
+    <p>Since 19xx,</p>
+  </section>
+  <hr>
+
+  
+  
+  <section id="page5">
+  <h1>Let’s start your Investment Journey with us!</h1>
+  <p>Our experienced team is here to guide you every step of the way, helping you make informed decisions and seize exciting opportunities as we navigate the path to your financial success."</p>
+
+  </section>
+  <hr>
+
+<footer>
+  <section id="footer">
+    <address>
+      Krungsri Securities
+      Pathumwan,
+      Chid lom
+      Ploenchit Tower
+    </address>
+  </section>
+</footer>
+</body>
+
+</html>
